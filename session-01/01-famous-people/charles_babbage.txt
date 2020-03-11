@@ -1,0 +1,76 @@
+Charles Babbage
+
+From Wikipedia, the free encyclopedia, https://en.wikipedia.org/wiki/Charles_Babbage
+
+Charles Babbage (26 December 1791 – 18 October 1871) was an English polymath. A mathematician, philosopher,
+inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.
+
+Considered by some to be a "father of the computer", Babbage is credited with inventing the first mechanical computer
+that eventually led to more complex electronic designs, though all the essential ideas of modern computers are
+to be found in Babbage's analytical engine. His varied work in other fields has led him to be described as "pre-eminent"
+among the many polymaths of his century.
+
+Early Life
+
+Babbage's birthplace is disputed, but according to the Oxford Dictionary of National Biography he was most likely
+born at 44 Crosby Row, Walworth Road, London, England. A blue plaque on the junction of Larcom Street and Walworth
+Road commemorates the event.
+
+His date of birth was given in his obituary in The Times as 26 December 1792; but then a nephew wrote to say that
+Babbage was born one year earlier, in 1791. The parish register of St. Mary's Newington, London, shows that Babbage
+was baptised on 6 January 1792, supporting a birth year of 1791.
+
+Babbage was one of four children of Benjamin Babbage and Betsy Plumleigh Teape. His father was a banking partner
+of William Praed in founding Praed's &amp; Co. of Fleet Street, London, in 1801. In 1808, the Babbage family
+moved into the old Rowdens house in East Teignmouth. Around the age of eight, Babbage was sent to a country school
+in Alphington near Exeter to recover from a life-threatening fever. For a short time he attended King Edward
+VI Grammar School in Totnes, South Devon, but his health forced him back to private tutors for a time.
+
+Babbage then joined the 30-student Holmwood academy, in Baker Street, Enfield, Middlesex, under the Reverend Stephen
+Freeman. The academy had a library that prompted Babbage's love of mathematics. He studied with two more private
+tutors after leaving the academy. The first was a clergyman near Cambridge; through him Babbage encountered Charles
+Simeon and his evangelical followers, but the tuition was not what he needed. He was brought home, to study at
+the Totnes school: this was at age 16 or 17. The second was an Oxford tutor, under whom Babbage reached a level
+in Classics sufficient to be accepted by Cambridge.
+
+Computing pioneer
+
+Background on mathematical tables
+
+In Babbage's time, printed mathematical tables were calculated by human computers; in other words, by hand. They
+were central to navigation, science and engineering, as well as mathematics. Mistakes were known to occur in
+transcription as well as calculation.
+
+At Cambridge, Babbage saw the fallibility of this process, and the opportunity of adding mechanisation into its management.
+His own account of his path towards mechanical computation references a particular occasion:
+
+In 1812 he was sitting in his rooms in the Analytical Society looking at a table of logarithms, which he knew to
+be full of mistakes, when the idea occurred to him of computing all tabular functions by machinery. The French
+government had produced several tables by a new method. Three or four of their mathematicians decided how to
+compute the tables, half a dozen more broke down the operations into simple stages, and the work itself, which
+was restricted to addition and subtraction, was done by eighty computers who knew only these two arithmetical
+processes. Here, for the first time, mass production was applied to arithmetic, and Babbage was seized by the
+idea that the labours of the unskilled computers could be taken over completely by machinery which would be quicker
+and more reliable.
+
+Difference engine
+
+Babbage began in 1822 with what he called the difference engine, made to compute values of polynomial functions.
+It was created to calculate a series of values automatically. By using the method of finite differences, it was
+possible to avoid the need for multiplication and division.
+
+For a prototype difference engine, Babbage brought in Joseph Clement to implement the design, in 1823. Clement worked
+to high standards, but his machine tools were particularly elaborate. Under the standard terms of business of
+the time, he could charge for their construction, and would also own them. He and Babbage fell out over costs
+around 1831.
+
+Some parts of the prototype survive in the Museum of the History of Science, Oxford. This prototype evolved into
+the "first difference engine." It remained unfinished and the finished portion is located at the Science Museum
+in London. This first difference engine would have been composed of around 25,000 parts, weigh fifteen tons (13,600
+kg), and would have been 8 ft (2.4 m) tall. Although Babbage received ample funding for the project, it was never
+completed. He later (1847–1849) produced detailed drawings for an improved version,"Difference Engine No. 2",
+but did not receive funding from the British government. His design was finally constructed in 1989–1991, using
+his plans and 19th century manufacturing tolerances. It performed its first calculation at the Science Museum,
+London, returning results to 31 digits.
+
+Nine years later, in 2000, the Science Museum completed the printer Babbage had designed for the difference engine.
